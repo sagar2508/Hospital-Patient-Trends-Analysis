@@ -112,13 +112,7 @@ Include an appropriate open-source license (e.g., MIT License) in a `LICENSE` fi
 
 ---
 
-## Author / Maintainer
 
-* **Author:** *Your Name*
-* **Email:** *[your.email@example.com](mailto:your.email@example.com)*
-* **Created:** 2025
-
----
 
 ## Version History
 
